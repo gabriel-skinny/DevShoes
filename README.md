@@ -14,3 +14,7 @@ Um E-commerce feito com React-Redux
 - React-Redux
 - Redux-Saga
 - Styled-Components
+
+## Preview
+
+![Demo CountPages alpha](/Preview.gif)
